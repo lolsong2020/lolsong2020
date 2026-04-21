@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 송형준입니다.
 
 <!--
 **lolsong2020/lolsong2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
