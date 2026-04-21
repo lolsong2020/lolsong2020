@@ -1,4 +1,7 @@
 ## 안녕하세요 송형준입니다.
+### 대한민국애서 거주 중
+#### 한신대학교에 재학 중
+##### 20살
 
 <!--
 **lolsong2020/lolsong2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
